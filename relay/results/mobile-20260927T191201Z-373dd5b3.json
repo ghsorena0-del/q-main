@@ -1,0 +1,35 @@
+{
+  "job_id": "mobile-20260927T191201Z-373dd5b3",
+  "status": "DONE",
+  "q_job_id": "20260927T224254Z_ed352742",
+  "q_result": {
+    "job_id": "20260927T224254Z_ed352742",
+    "status": "DONE",
+    "started_at": 1790536374.2023168,
+    "finished_at": 1790536374.2178104,
+    "result": {
+      "ok": true,
+      "bridge": "Q Control Bridge",
+      "version": "0.3",
+      "mode": "READ_ONLY",
+      "trading": false,
+      "withdrawals": false,
+      "api_keys": false,
+      "futures": false,
+      "leverage": false,
+      "margin": false,
+      "root": "/data/data/com.termux/files/home/Q"
+    }
+  },
+  "timestamp_utc": "2026-09-27T19:12:54.231349+00:00",
+  "safety": {
+    "mode": "READ_ONLY",
+    "trading": false,
+    "withdrawals": false,
+    "api_keys": false,
+    "futures": false,
+    "leverage": false,
+    "margin": false,
+    "shell": false
+  }
+}
