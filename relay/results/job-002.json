@@ -1,0 +1,47 @@
+{
+  "job_id": "job-002",
+  "status": "DONE",
+  "q_job_id": "20260927T220307Z_483ed1c7",
+  "q_result": {
+    "job_id": "20260927T220307Z_483ed1c7",
+    "status": "DONE",
+    "started_at": 1790533987.7071388,
+    "finished_at": 1790533995.2766674,
+    "result": {
+      "timestamp_utc": "2026-09-27T18:33:07.820881+00:00",
+      "system": "Q Android Core",
+      "mode": "READ_ONLY",
+      "components": {
+        "pairs_api": "OK",
+        "orderbook_api": "OK",
+        "prices_api": "HTTP 404",
+        "trades_api": "UNKNOWN_NOT_GUESSED"
+      },
+      "universe": {
+        "total": 625,
+        "active": 569,
+        "suspended": 56
+      },
+      "safety": {
+        "read_only": true,
+        "trading": false,
+        "withdrawals": false,
+        "api_keys": false,
+        "futures": false,
+        "leverage": false,
+        "margin": false
+      }
+    }
+  },
+  "timestamp_utc": "2026-09-27T18:33:15.326981+00:00",
+  "safety": {
+    "mode": "READ_ONLY",
+    "trading": false,
+    "withdrawals": false,
+    "api_keys": false,
+    "futures": false,
+    "leverage": false,
+    "margin": false,
+    "shell": false
+  }
+}
