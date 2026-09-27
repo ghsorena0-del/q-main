@@ -1,0 +1,27 @@
+{
+  "job_id": "mobile-20260927T191507Z-4e990b1a",
+  "status": "DONE",
+  "q_job_id": "20260927T224632Z_67d567fa",
+  "q_result": {
+    "job_id": "20260927T224632Z_67d567fa",
+    "status": "DONE",
+    "started_at": 1790536592.6973004,
+    "finished_at": 1790536592.7359722,
+    "result": {
+      "ok": true,
+      "compile": "OK",
+      "errors": []
+    }
+  },
+  "timestamp_utc": "2026-09-27T19:16:32.752021+00:00",
+  "safety": {
+    "mode": "READ_ONLY",
+    "trading": false,
+    "withdrawals": false,
+    "api_keys": false,
+    "futures": false,
+    "leverage": false,
+    "margin": false,
+    "shell": false
+  }
+}
