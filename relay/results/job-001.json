@@ -1,0 +1,20 @@
+{
+  "job_id": "job-001",
+  "status": "DONE",
+  "q_job_id": "20260927T215529Z_0716a93e",
+  "q_result": {
+    "status": "TIMEOUT",
+    "job_id": "20260927T215529Z_0716a93e"
+  },
+  "timestamp_utc": "2026-09-27T18:25:59.337207+00:00",
+  "safety": {
+    "mode": "READ_ONLY",
+    "trading": false,
+    "withdrawals": false,
+    "api_keys": false,
+    "futures": false,
+    "leverage": false,
+    "margin": false,
+    "shell": false
+  }
+}
